@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gourav Agarwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav5015&label=Profile%20views&color=0e75b6&style=flat" alt="gourav5015" /> </p>
+
 - 🔭 I’m currently working on **SharedSpace - Blogging website , creating it's Android app**
 
 - 🌱 I’m currently learning **Android , NextJs**
+
+- I have secured a rank of 1130 out of 26600+ in leetcode weekly contest 357 [https://leetcode.com/aggourav5015/](https://leetcode.com/aggourav5015/)
 
 - 💬 Ask me about **React, python, c,c++,html, css, java , JavaScript**
 
